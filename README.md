@@ -25,7 +25,7 @@ New articles drop every week. Follow along if you want to learn Web3 without the
 | Exahash (EH/s) — The Unit Behind Bitcoin's Security | Blockchain | ✅ Published |
 | Blockchain: How It Actually Works | Blockchain | ✅ Published |
 | Crypto Wallet & Private Key | Security | ☑️ Published|
-| What is DeFi? | DeFi | 🔜 Coming Soon |
+| What is DeFi? | DeFi |☑️ Published |
 | NFT — Beyond the Hype | NFT | 🔜 Coming Soon |
 | Proof of Work vs Proof of Stake | Blockchain | 🔜 Coming Soon |
 
