@@ -27,7 +27,7 @@ New articles drop every week. Follow along if you want to learn Web3 without the
 | Crypto Wallet & Private Key | Security | ☑️ Published|
 | What is DeFi? | DeFi |☑️ Published |
 | NFT — Beyond the Hype | NFT | ☑️ Published|
-| Proof of Work vs Proof of Stake | Blockchain | 🔜 Coming Soon |
+| Proof of Work vs Proof of Stake | Blockchain|☑️ Published|
 
 ---
 
